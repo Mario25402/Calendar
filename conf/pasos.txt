@@ -2,9 +2,7 @@ mkdir IV
 cd IV
 git init
 git checkout -b Objetivo-0
-touch README.mkdir
-touch LICENSE
-touch .gitignore
+touch README.md
 git add .
 git commit -m "First upload"
 git remote add origin https://github.com/Mario25402/Calendar.git
