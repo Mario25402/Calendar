@@ -1,12 +1,10 @@
-# IV Calendar
+# OilNet
 
 ## Descripción del problema
 
-Soy una persona ocupada y despistada, tengo muchos eventos en los que debo tener atención y actividades de los eventos por realizar, necesito organizarme y poner atención a lo que es posible realizar en este momento sin necesidad de agobios.
+Las personas que se dedican a la agricultura del aceite normalmente se agrupan en cooperativas lo que hace que la gestión sea complicada debido a la cantidad de personas pertenecientes a la misma. Un problema principal de ésto es la gestión del inventario, es decir, los productos aptos para la venta ya que al tener estaciones distribuidas no se sabe con certeza si último que se consultó es realmente lo que hay actualmente. 
 
-## Propuesta de solución
-
-Se necesita de organización y creación de rutinas a partir de los eventos establecidos para los diferentes días y ordenarlos en función de criterios temporales, al igual que mantener recordatorios que ayuden a la realización de las tareas.
+Al ser últimamente un producto con su precio en auge, las personas tienden a comprar de manera simbólica, es decir, como regalo pero, como se dispone de un stock invariable, es necesario detectar cuando son los tiempos en los que se hace con mayor frecuencia para así maximizar las ventas del aceite.
 
 ## Extra
 
