@@ -2,9 +2,13 @@
 
 ## Descripción del problema
 
-Las personas que se dedican a la agricultura del aceite normalmente se agrupan en cooperativas lo que hace que la gestión sea complicada debido a la cantidad de personas pertenecientes a la misma. Un problema principal de ésto es la gestión del inventario, es decir, los productos aptos para la venta ya que al tener estaciones distribuidas no se sabe con certeza si último que se consultó es realmente lo que hay actualmente. 
+Las personas que se dedican a la agricultura del aceite normalmente se agrupan en cooperativas lo que hace que la gestión sea complicada debido a la cantidad de personas pertenecientes a la misma ya que la materia prima proviene de distintos productores, es complejo consensuar la toma de decisiones sobretodo en cuanto a decisiones de presupuestos.
 
-Al ser últimamente un producto con su precio en auge, las personas tienden a comprar de manera simbólica, es decir, como regalo pero, como se dispone de un stock invariable, es necesario detectar cuando son los tiempos en los que se hace con mayor frecuencia para así maximizar las ventas del aceite.
+La gestión eficiente del inventario en tiempo real y la predicción de picos de demanda se han convertido en los desafíos clave. Se necesita una solución que:
+
+* Proporcione visibilidad en tiempo real sobre la disponibilidad de productos en las diferentes estaciones de la cooperativa.
+* Integre una lógica de negocio avanzada que permita la predicción de demanda en función de las tendencias de compra y los comportamientos de los consumidores.
+* Aplique rutas de suministro eficientes que sean capaces de mantener el stock antes de una posible predicción de un producto agotado.
 
 ## Extra
 
