@@ -1,13 +1,20 @@
-# BookHub
+# AskETSIIT
 
 ## Descripción del problema
 
-Como estudiante de diversas asignaturas, tengo la necesidad constante de consultar una gran cantidad de libros y artículos, muchos de los cuales son difíciles de encontrar o requieren un pago para acceder.
+Como estudiante experimentado de la ETSIIT, sé que es complicado el inicio de un curso nuevo debido a todo el cambio de asignaturas y horarios entre otros. Ésto conlleva cierta desinformación por estár sumidos en las novedades y en la desorganización, sobre todo, si es el primer año. 
 
-Estos recursos son principalmente prestados por compañeros en diferentes formatos o enlaces, sin embargo, dado el volumen de información que recibo por mensajería, se vuelve complicado recordar donde se encuentran cada uno de ellos, lo que dificulta en gran medida el acceso de manera rápida y sencilla al elemento necesitado.
+Es muy común ver a gente, en cualquier altura del curso, preguntar acerca de:
+  - Correos de profesores
+  - Horarios de asignaturas
+  - Lugar de impartición de una clase
+  - Profesor de grupos y subgrupos
+
+Información que se encuentra escondida bajo muchos enlaces o documentos en páginas confusas y que hacen dificultosa la aclaración de las dudas y la consulta constante de las mismas.
 
 ## Extra
 
 [Licencia](./LICENSE)
 [Configuración](./conf/pasos.txt)
 [Checkeo de claves](./conf/claves.png)
+[Fuentes](./fuentes.md)
