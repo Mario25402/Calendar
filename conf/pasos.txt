@@ -1,0 +1,9 @@
+mkdir IV
+cd IV
+git init
+git checkout -b Objetivo-0
+touch README.md
+git add .
+git commit -m "First upload"
+git remote add origin https://github.com/Mario25402/Calendar.git
+git push -u origin Objetivo-0
